@@ -168,5 +168,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3e6cb47c1b678e84592099a02aed1b51, type: 3}
+  m_Script: {fileID: 11500001, guid: 20e8bd2fb918bd444bf92390027de280, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
